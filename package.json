@@ -1,0 +1,11 @@
+{
+  "name": "project-nodejs-express-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lukas1474/project-nodejs-express-2.git",
+  "author": "Lukasz Sobel <lukasz.sobel@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
